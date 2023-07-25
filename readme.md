@@ -1,7 +1,7 @@
 # AluraPlay
 
 - Utilizado HTML e CSS
-- Objetivo da página é de aprimorar os conceiros de responsividade no CSS
+- Objetivo da página é aprimorar os conceitos de responsividade no CSS
 
 
 ## Autora do projeto:
