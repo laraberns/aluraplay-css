@@ -1,24 +1,27 @@
-# 🎵 Piano Virtual
+# 🎥 AluraPlay Clone
 
-Um piano virtual desenvolvido com **HTML, CSS e JavaScript**, que permite tocar diferentes notas musicais diretamente pelo navegador através do teclado do computador ou dos botões da interface.
+Uma interface inspirada no **YouTube**, desenvolvida com **HTML5 e CSS3**, recriando a experiência de uma plataforma de vídeos moderna. O projeto apresenta um layout responsivo com menu lateral, barra de pesquisa, categorias, cards de vídeos e rodapé organizado.
 
 ## 📖 Sobre o projeto
 
-Este projeto foi desenvolvido para praticar manipulação do DOM, eventos de teclado e reprodução de áudio utilizando JavaScript puro.
+O **AluraPlay Clone** foi desenvolvido com foco na prática de HTML semântico, Flexbox e organização de layouts responsivos. A aplicação simula uma plataforma de streaming de vídeos, utilizando vídeos incorporados do YouTube e uma interface semelhante às principais plataformas de conteúdo.
 
-Cada tecla do piano está associada a um arquivo de áudio, proporcionando uma experiência simples e interativa para aprendizado dos conceitos fundamentais de desenvolvimento web.
+Este projeto foi criado para aprimorar habilidades de estruturação de páginas complexas e estilização utilizando CSS moderno.
 
 ## ✨ Funcionalidades
 
-- 🎹 Piano virtual totalmente funcional
-- ⌨️ Suporte ao teclado físico
-- 🖱️ Reprodução de sons ao clicar nos botões
-- 🔊 Reprodução instantânea das notas
-- 📱 Interface responsiva
-- ⚡ Desenvolvido apenas com JavaScript Vanilla
+- 🎬 Interface inspirada no YouTube
+- 🔎 Barra de pesquisa
+- 📂 Menu lateral com categorias
+- 🎥 Grid de vídeos incorporados do YouTube
+- 📱 Layout responsivo
+- 🧩 Organização utilizando Flexbox
+- 🎨 Interface limpa e moderna
 
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- Flexbox
+- Google Fonts
+- YouTube Embed API (iframes)
