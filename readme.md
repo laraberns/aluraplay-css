@@ -1,10 +1,24 @@
-# AluraPlay
+# 🎵 Piano Virtual
 
-- Utilizado HTML e CSS
-- Objetivo da página é aprimorar os conceitos de responsividade no CSS
+Um piano virtual desenvolvido com **HTML, CSS e JavaScript**, que permite tocar diferentes notas musicais diretamente pelo navegador através do teclado do computador ou dos botões da interface.
 
+## 📖 Sobre o projeto
 
-## Autora do projeto:
+Este projeto foi desenvolvido para praticar manipulação do DOM, eventos de teclado e reprodução de áudio utilizando JavaScript puro.
 
-| [<img src="https://media.licdn.com/dms/image/C4D03AQGh9BdP5Om_Rw/profile-displayphoto-shrink_200_200/0/1642126805674?e=1693440000&v=beta&t=TfK03jWv80-quDwb3s7KLhku_IPACHECFTxo79S85V0" width=115><br><sub>Lara Pereira</sub>](https://www.linkedin.com/in/lara-berns-pereira) |    
-| :---: | 
+Cada tecla do piano está associada a um arquivo de áudio, proporcionando uma experiência simples e interativa para aprendizado dos conceitos fundamentais de desenvolvimento web.
+
+## ✨ Funcionalidades
+
+- 🎹 Piano virtual totalmente funcional
+- ⌨️ Suporte ao teclado físico
+- 🖱️ Reprodução de sons ao clicar nos botões
+- 🔊 Reprodução instantânea das notas
+- 📱 Interface responsiva
+- ⚡ Desenvolvido apenas com JavaScript Vanilla
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
